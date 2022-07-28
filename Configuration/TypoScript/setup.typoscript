@@ -1,0 +1,5 @@
+page{
+    includeJS{
+        datamintsFormsGetPrefill = EXT:datamints_forms_get_prefill/Resources/Public/Scripts/datamints_forms_get_prefill.js
+    }
+}
