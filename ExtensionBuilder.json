@@ -1,0 +1,42 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Prefills form fields by get-parameters",
+        "emConf": {
+            "category": "fe",
+            "custom_category": "",
+            "dependsOn": "typo3 => 11.5.0-11.5.99\n",
+            "disableLocalization": true,
+            "disableVersioning": false,
+            "generateDocumentationTemplate": true,
+            "generateEditorConfig": false,
+            "generateEmptyGitRepository": true,
+            "sourceLanguage": "en",
+            "state": "stable",
+            "targetVersion": "11.5.0-11.5.99",
+            "version": "1.0.0"
+        },
+        "extensionKey": "datamints_forms_get_prefill",
+        "name": "datamints forms get prefill",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "datamints GmbH",
+                "email": "m.weisgerber@datamints.com",
+                "name": "Mark Weisgerber",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "Datamints"
+    },
+    "wires": [],
+    "storagePath": "\/srv\/www\/weisgerber\/webtemps-knittel-519\/typo3-solidcam-relaunch-2022\/src\/typo3conf\/ext\/",
+    "log": {
+        "last_modified": "2022-07-28 01:30",
+        "extension_builder_version": "11.0.3",
+        "be_user": " (4)"
+    }
+}
