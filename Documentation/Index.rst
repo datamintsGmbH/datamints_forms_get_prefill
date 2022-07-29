@@ -9,7 +9,7 @@
 .. _start:
 
 =============================================================
-datamints forms get prefill
+datamints Forms GET Prefill
 =============================================================
 
 :Version:
@@ -25,11 +25,9 @@ datamints forms get prefill
    m.weisgerber@datamints.com
 
 :License:
-   This extension documentation is published under the
-   `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__ (Creative Commons)
-   license
+   Please see file LICENSE.txt
 
-Prefills form fields by get-parameters
+The extension "datamints_forms_get_prefill prefills form fields by URL GET-parameters. Works with EXT:powermail & EXT:forms
 
 **TYPO3**
 
@@ -43,25 +41,24 @@ This documentation is community documentation for the TYPO3 extension datamints 
 It is maintained as part of this third party extension.
 
 If you find an error or something is missing, please:
-`Report a Problem <https://github.com/TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual/issues/new>`__
+`Report a Problem <https://github.com/datamintsGmbH/datamints_forms_get_prefill/issues/new>`__
 
 **Extension Manual**
 
-This documentation is for the TYPO3 extension datamints_forms_get_prefill.
+This documentation is for the TYPO3 extension datamints_flash_message.
 
 **For Contributors**
 
 You are welcome to help improve this guide.
 Just click on "Edit me on GitHub" on the top right to submit your change request.
 
+**Table of Contents**
+
 .. toctree::
    :maxdepth: 3
 
-   Introduction/Index
-   Editor/Index
    Installation/Index
    Configuration/Index
+   Editor/Index
    Developer/Index
-   KnownProblems/Index
    ChangeLog/Index
-   Sitemap
