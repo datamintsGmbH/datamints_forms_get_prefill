@@ -15,11 +15,14 @@ Features:
 
 - Prefill Form Fields by defining GET-Parameters e.g. www.example.com/?form_car=Audi
 - Works with EXT:form & EXT:powermail
+- Sets values with javascript (vanilla without dependencies!)
 
 Usage and installation:
 ---------
 
-- See documentation: https://github.com/datamintsGmbH/datamints_forms_get_prefill/tree/master/Documentation
+- Install the extension with the TYPO3 extension manager or composer
+- Add the static TypoScript to your Site template
+- Simply enter your field identifier with an "form"-prefix parameter, e.g. www.example.com/?form_car=Audi where "car" is your field identifier/name
 
 Screenshots
 ---------

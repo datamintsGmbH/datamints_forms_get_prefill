@@ -6,8 +6,5 @@
 Installation
 ============
 
-- How is the extension installed?
-- Are there any dependencies that need to be resolved?
-
-References to general TYPO3 documentation are possible,
-for example the :ref:`t3install:start`.
+#. Install the extension with the TYPO3 extension manager
+#. Add the static TypoScript to your Site template
