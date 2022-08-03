@@ -1,14 +1,14 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'datamints forms get prefill',
+    'title' => 'datamints Forms GET Prefill',
     'description' => 'Prefills form fields by URL GET-parameters. Works with EXT:powermail & EXT:forms',
     'category' => 'fe',
     'author' => 'Mark Weisgerber',
     'author_email' => 'm.weisgerber@datamints.com',
     'state' => 'stable',
     'clearCacheOnLoad' => 1,
-    'version' => '1.0.1',
+    'version' => '1.1.0',
     'constraints' => [
         'depends' => [
             'typo3' => '7.0.0-11.5.99',
